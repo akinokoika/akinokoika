@@ -1,4 +1,4 @@
-### Hi I’m akinokoika (・∀・)/
+### Hi, I’m akinokoika! (・∀・)/
 
 <!--
 **akinokoika/akinokoika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
