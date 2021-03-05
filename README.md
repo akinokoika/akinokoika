@@ -2,7 +2,6 @@
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinokoika&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinokoika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
